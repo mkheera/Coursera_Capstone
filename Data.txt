@@ -1,0 +1,5 @@
+   Data
+
+   Brisbane Suburbs names will be scraped from wikipedia .As the post code information is not directly available on wikipedia I have copied it from    a file on github that has all the postcode and geocodes of Australia.It will be copied to an excel file converted to csv and then using pandas          appended to my original Brisbane suburbs file.Now I have my dataframe with Suburb name,Postcode,Suburb latitude and Suburb longitude.
+
+   Next step is to find the different venues in each suburb.Foursquare location data will be used to aceive this.Sending a request to the       Foursquare  with suburb latitude and longitude will return all the venues in that suburb.For each suburb,I will be extracting venues names,venue    category and venue location.

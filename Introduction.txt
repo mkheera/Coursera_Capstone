@@ -1,0 +1,9 @@
+   Introduction/Business Problem.
+
+   Buying a house is everyones dream.But with the numerous options avialable in terms of suburbs,type of residence,location,proximity to venues    etc it is hard to decide on which one to buy The decision made on intuition may not always be the right one.
+   I recently moved to Indooropilly which is a suburb in  Brisbane, Australia.Living in Indoorooppilly has been a pleasant experience and it also         has a great shopping mall and plenty of breakfast and dining options.I have plans of buying a house but don’t know where to buy as I am new       to Brisbane.I like Indooroopilly but I would also like to have more choice when it comes to buying a house.
+   In this project I would like to make use of the insights gained from data to narrow down my choices to a small number of suburbs which would       then make it easier to take a decision.
+   
+  Audience
+
+   People who are looking to buy a home in Brisbane.They can get an idea of which  suburbs are similar.It also gives a general idea  of the          suburbs from the type and number of venues present.
